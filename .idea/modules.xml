@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GithubBrowser.iml" filepath="$PROJECT_DIR$/.idea/modules/GithubBrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GithubBrowser_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GithubBrowser_main.iml" group="GithubBrowser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GithubBrowser_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GithubBrowser_test.iml" group="GithubBrowser" />
+    </modules>
+  </component>
+</project>
